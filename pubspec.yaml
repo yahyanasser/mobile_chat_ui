@@ -15,7 +15,7 @@ dependencies:
   flutter_linkify: ^6.0.0
   iconify_flutter: ^0.0.5
   url_launcher: ^6.1.14
-  image_picker: ^1.0.4
+  image_picker: ^0.8.5+3
   emoji_picker_flutter: ^1.6.1
 
 dev_dependencies:
